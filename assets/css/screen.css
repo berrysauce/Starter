@@ -98,11 +98,12 @@ html,
     object-fit: cover;
     margin-bottom: 4vmin;
     border-radius: 5px;
+    margin-top 10px;
 }
 
 .gh-card-meta {
     display: block;
-    margin: 0 0 1rem;
+    margin-bottom: 0px;
     font-size: 1.4rem;
     line-height: 1.2em;
     letter-spacing: 0.5px;
